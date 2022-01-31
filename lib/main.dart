@@ -8,7 +8,7 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   MyApp({Key? key}) : super(key: key);
 
-  static const myAppTitle = 'Period Calendar';
+  static const myAppTitle = 'Digital Cal';
 
   @override
   Widget build(BuildContext context) {
